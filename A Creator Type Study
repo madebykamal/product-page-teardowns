@@ -1,0 +1,355 @@
+# Who Actually Uses Bigsfield — A Creator Type Study
+### The Same Platform, Eight Completely Different Products
+
+> **The honest truth about Bigsfield:** It doesn't have one type of user. It has eight — and they barely overlap. A filmmaker and a DTC brand marketer both have Bigsfield accounts and both swear by it. They use almost none of the same products.
+>
+> This document maps Bigsfield's full product suite to the actual types of creators who use it — not a linear "journey" that forces everyone into the same path, but an honest look at who each product was built for, who it doesn't serve, and why a single platform can contain all of these people at once.
+
+---
+
+## Why Creator Type Matters More Than Journey Stage
+
+Most platform analyses describe a journey: discover → learn → create → master. The problem is that journey assumes everyone starts at the same place and moves in the same direction.
+
+They don't.
+
+A professional video editor who's been cutting films for ten years doesn't arrive at Bigsfield as a beginner. They walk straight past the Viral Presets, ignore the Academy, and want to know one thing: does the Premiere Pro plugin work inside their existing timeline?
+
+A brand manager at a DTC company doesn't care about Cinema Studio's camera controls. They need product shots and ad variations by Thursday.
+
+A faceless content creator building a YouTube channel doesn't need lipsync or editorial motion graphics. They need automated video production that requires zero on-camera presence.
+
+Same platform. Completely different products. Completely different definitions of value.
+
+Understanding Bigsfield through creator types — not journey stages — is what lets you see how a platform this broad can exist without being unfocused. Each creator type finds their Bigsfield within the larger product. The platform's breadth is not a positioning problem; it's the product strategy itself.
+
+---
+
+## The Eight Creator Types
+
+---
+
+### Type 1 — The Casual Creator
+
+**Who they are:**
+Not a professional. Not building a career. Someone who saw an AI video on TikTok that stopped them mid-scroll and thought "I want to make something like that." They have no video editing background, no design skills, and no budget for tools or training. They want magic in one click and they want it now.
+
+**What they need from a creative platform:**
+Zero skill requirement. An immediate impressive result. No setup, no tutorials, no configuration. The result needs to be shareable — something they'd actually post — not a demo output.
+
+**Their Bigsfield — the products that matter:**
+
+*Viral Presets* is this person's entire platform. They don't need anything else to get value. Pick "Moonwalk" or "Earth Zoom" or "Ink Riot," apply it to a video or photo, and the output looks like something a professional spent hours creating. The fact that there are 60+ named presets means there's always something new to try, and the naming makes them feel like they're accessing a creative vocabulary — not just clicking a filter.
+
+*Community* serves them as a discovery surface. They browse what others have made, find a style they love, and use the open project file to replicate it. They are consumers of the Community as much as contributors.
+
+*The homepage carousel* (Section 02) is their reason to keep coming back — new models, new launches, always something fresh to try.
+
+**What they'll never touch:**
+Cinema Studio 4.0, MCP & CLI, Supercomputer, Lipsync Studio, Marketing Studio, Canvas, Adobe Plugins. None of these exist in their world.
+
+**What success looks like:**
+One viral post. One output that makes their friends ask "how did you make that?" That's the entire value proposition — and it's enough. This is also the creator type that generates Bigsfield's organic social distribution. When their Viral Preset clip trends, everyone who sees it is a potential new user.
+
+**The insight:**
+The Casual Creator is the top of the funnel. Bigsfield doesn't expect them to become power users. But they populate the Community, generate the viral content that drives discovery, and keep the platform culturally alive. They are not the highest-value customer — but they may be the highest-leverage one for growth.
+
+---
+
+### Type 2 — The Social Media Creator
+
+**Who they are:**
+Someone building an audience on TikTok, Instagram Reels, or YouTube Shorts. Content is their output and volume matters — they need to post consistently, frequently, and at a quality level that keeps people watching. They may have some editing skills but they're not a filmmaker. Speed of production is as important as quality of output.
+
+**What they need from a creative platform:**
+High volume, fast turnaround, consistent quality. The ability to take a single piece of raw content and turn it into multiple clips for multiple platforms. Formats that match platform requirements without manual resizing. Tools that produce authentic-feeling content, not obviously AI-generated corporate material.
+
+**Their Bigsfield — the products that matter:**
+
+*Shorts Maker* is the most important Skill in the Supercomputer for this creator. It takes long-form content and automatically cuts it into short clips — finding the hooks, the punchlines, the moments that work in a vertical 60-second format. For a creator who shoots a 20-minute video and needs five clips from it by tonight, this changes everything.
+
+*Video Upscale* ensures their content looks sharp at any size — important when the same clip will be viewed on a phone and a tablet and a desktop.
+
+*Text to Video and Image to Video* serve as content amplifiers — they can generate B-roll, cutaways, and visual context that makes their talking-head or narration content more visually dynamic.
+
+*Viral Presets* stay relevant here too — they use them strategically to ride existing trends rather than just for personal exploration.
+
+*Marketing Studio's Motion and UGC templates* are useful when they're creating sponsored content for a brand partner — ready-to-post formats that meet brand requirements without a design team.
+
+**What they'll never touch:**
+Cinema Studio 4.0, Soul Cinema, MCP & CLI, Adobe Plugins (they're not in Premiere), Layers/Edit (too granular for their workflow speed).
+
+**What success looks like:**
+Consistent weekly posting. A clip that breaks 100K views. A brand partnership that uses UGC templates to produce the deliverable in under an hour.
+
+**The insight:**
+The Social Media Creator represents Bigsfield's largest user segment by volume. They're the ones who make the Community feel alive, generate the most preset-based viral content, and drive peer discovery when followers ask "what tool are you using?" Their use case validates the platform's breadth — they use a genuinely different set of products than the Casual Creator above, and they'll be back tomorrow.
+
+---
+
+### Type 3 — The Faceless Channel Creator
+
+**Who they are:**
+A specific and fast-growing category of creator: someone building a content business on YouTube or TikTok entirely without appearing on camera. Faceless channels use AI narration, AI visuals, and automated production to run what is essentially a media company operated by one person. The appeal is anonymity, scalability, and the ability to run multiple channels simultaneously.
+
+**What they need from a creative platform:**
+End-to-end production automation. A pipeline that takes a topic or script and produces a complete video — visuals, narration, pacing — without manual intervention at each step. Consistency across many videos so the channel has a recognizable aesthetic.
+
+**Their Bigsfield — the products that matter:**
+
+*Higgsfield Faceless Video Skill* (Supercomputer) is the center of their world. This Skill is built specifically for their use case — it takes a brief and produces complete faceless content ready to publish. Not a generation tool, but a full pipeline.
+
+*Cartoon Faceless Video Skill* serves the subset who build animated faceless channels — a growing format because animation sidesteps the "AI face" uncanny valley problem entirely.
+
+*Shorts Maker Skill* converts longer faceless content into platform-specific short clips.
+
+*Text to Video* generates the visual layer of their content — illustrating narration with AI-generated footage rather than stock video.
+
+*Subtitle Generator* handles captioning automatically — a non-negotiable for shorts that autoplay silently.
+
+*Audio tab* (voice generation) ties the narration layer together.
+
+**What they'll never touch:**
+Lipsync Studio (no face to sync), Photodump (character consistency irrelevant when there's no character), Cinema Studio 4.0 (cinematic controls matter less than pipeline efficiency), Adobe Plugins (they're not in professional editing tools).
+
+**What success looks like:**
+A channel that posts three times a week with one hour of work. Multiple channels running on the same production pipeline. Monetization from ad revenue without ever appearing on screen.
+
+**The insight:**
+The Faceless Creator is the clearest example of a Bigsfield use case that would be impossible to serve with traditional creative tools. This user type literally did not exist at scale before AI generation. Bigsfield naming a Skill specifically for them — "Higgsfield Faceless Video" — is a signal that this is a first-class user type, not an accidental use case. The platform is shaped around them as much as around anyone.
+
+---
+
+### Type 4 — The Filmmaker / Director
+
+**Who they are:**
+A serious creative. They've studied film, they think about shots, they care about light and framing and emotional resonance. They're not making ads or social clips — they're making something with a point of view. They may be entering the Bigsfield Film Festival, building a portfolio, or working on a personal project. They have the most sophisticated taste of any user type.
+
+**What they need from a creative platform:**
+Control. Cinematic quality. The ability to direct, not just generate. Tools that respond to creative intent — camera movement, lighting mood, narrative pacing — not just text prompts.
+
+**Their Bigsfield — the products that matter:**
+
+*Cinema Studio 4.0* is built for them. Not "generate a video" but "direct a video" — with camera controls (pan, tilt, dolly, orbit), lighting moods, shot types, and the language of filmmaking built into the interface. This is where Bigsfield distinguishes itself from every other AI video tool for this user.
+
+*Soul Cinema* serves the specific emotional register they're after — dramatic, moody, high-contrast, narratively weighted. For a filmmaker going for a particular feel, this is the generation mode that understands that register.
+
+*Canvas* functions as their visual development environment — moodboarding, sequencing shots, building a scene visually before generating it, connecting tools in a pipeline that mirrors a production workflow.
+
+*Open Project Files* in the Community serve as film school material. They study how other filmmakers achieved specific looks, reverse-engineer technique, and build their own vocabulary.
+
+*Originals* — Bigsfield's own films made with their tools — are the reference point for what's possible at the ceiling.
+
+*Image Upscale and Video Upscale* ensure their work is technically pristine.
+
+**What they'll never touch:**
+Marketing Studio, Ad Multiplier, UGC Factory, Faceless Video Skills. These are commercial production tools — this creator doesn't make ads.
+
+**What success looks like:**
+A finished short film that stands on its own artistically. A placement in the Film Festival. A portfolio that demonstrates creative vision, not just AI capability.
+
+**The insight:**
+The Filmmaker is Bigsfield's most prestigious user type — they create the content in Originals and the Community that convinces everyone else the platform is capable of real artistry. They're not the largest segment but they set the quality ceiling. Their existence changes how every other creator perceives the platform.
+
+---
+
+### Type 5 — The Brand Marketer / Ad Team
+
+**Who they are:**
+Someone at a company — a brand manager, a performance marketer, a creative director at an agency — who needs to produce a high volume of ad creative consistently, quickly, and across multiple formats and channels. They are not a creator in the artistic sense. They are solving a production problem: how do we generate 20 ad variants this week without a creative agency and a $50,000 budget?
+
+**What they need from a creative platform:**
+Brand consistency. Format variety. Speed. Output that looks professional but was produced in-house in hours, not days. Integration with their existing campaign workflow.
+
+**Their Bigsfield — the products that matter:**
+
+*Ad Multiplier Skill* is probably the highest-ROI product on the entire platform for this user. One tested ad in, ten variations out — different hooks, different lengths, different formats for Meta, TikTok, YouTube pre-roll, and display. A performance marketer who was running three ad variants per campaign can now run thirty. This directly changes their campaign results.
+
+*Marketing Studio* handles the full creative pipeline — product image in, ready-to-post content out across six formats (Product Shot, Motion, UGC, Ads, Posters, Marketplace). Each format is already sized and structured for its platform.
+
+*Brandkit Skill* builds a full visual brand asset suite from a brief — useful for new campaign launches or when they need a cohesive set of assets fast.
+
+*Editorial Motion Graphics Skill* produces news/editorial-style video — useful for product launches, announcements, and brand updates that need to look authoritative.
+
+*Recraft V4 Styles* ensures visual consistency across generated images — the same style locked in across every asset in a campaign.
+
+*Supercomputer Memory* is critical for this user. Once the agent knows the brand's colors, voice, target audience, and product range, every new brief gets output that's already on-brand without a detailed re-briefing.
+
+**What they'll never touch:**
+Cinema Studio 4.0, Soul Cinema, Viral Presets (too stylistically extreme for brand work), Academy (they want outputs not education), Community (irrelevant to their workflow).
+
+**What success looks like:**
+A 40% reduction in creative production time. Ad variants that test better because there are more of them. A campaign that shipped on time despite the team being half the size it used to be.
+
+**The insight:**
+The Brand Marketer is Bigsfield's highest-revenue customer type. They have budget, recurring needs, and a clear measurable ROI. The Ad Multiplier alone justifies an enterprise subscription for a mid-size marketing team. This is the user type most likely to become a B2B contract — and the Adobe plugin strategy targets exactly the agencies and in-house teams this person works in.
+
+---
+
+### Type 6 — The E-commerce / DTC Brand
+
+**Who they are:**
+A small to mid-size product brand selling direct-to-consumer — on Shopify, Amazon, Instagram, or all three. They have a physical product and they need content for it constantly: listing images, product videos, social ads, seasonal campaigns. They may not have a full-time creative team. The founder might be doing this themselves.
+
+**What they need from a creative platform:**
+Product-focused content that looks like a professional studio shoot without the cost of a professional studio shoot. Formats ready for every channel. Speed, because they're running a business and creative is one of many things on their plate.
+
+**Their Bigsfield — the products that matter:**
+
+*Marketing Studio — Product Shot* is the entry point. Upload a product photo, select a background and context, get a studio-quality image. No photographer, no studio rental, no retoucher.
+
+*Marketing Studio — Motion* animates the product — it floats, rotates, reveals in a way that stops the thumb on a scroll. Static product images perform worse than motion on every major platform. This template bridges that gap without video production.
+
+*Marketing Studio — Marketplace* produces images specifically formatted for Amazon and Shopify product listings — the right dimensions, the right structure, the right visual hierarchy for e-commerce.
+
+*Marketing Studio — UGC* produces authentic creator-style video that performs like influencer content in paid ads — without paying an influencer.
+
+*Ad Multiplier Skill* takes their best performing ad and generates variations for testing — critical for DTC brands running performance campaigns where creative fatigue is a real, measurable problem.
+
+**What they'll never touch:**
+Cinema Studio 4.0, Soul Cinema, Faceless Video, MCP & CLI, Canvas, Academy. They want outputs, not craft.
+
+**What success looks like:**
+A product launch with a full asset suite produced in a day. An Amazon listing with 8 high-quality product images that would have cost $2,000 to shoot. An ad creative that performs at 3x the previous ROAS because it's finally testing enough variants.
+
+**The insight:**
+The E-commerce brand is the use case that Marketing Studio was specifically designed for. The six template categories — Product Shot, Motion, UGC, Ads, Posters, Marketplace — map almost exactly to the creative needs of a DTC product launch. This is a vertical play. Bigsfield isn't positioning as a generic creative tool here — they're positioning as the production studio for e-commerce brands that can't afford a production studio.
+
+---
+
+### Type 7 — The Professional Video Editor
+
+**Who they are:**
+A freelance video editor or someone at a creative agency. Premiere Pro is their primary tool — they've been using it for years, they have client templates set up, their project organization system is established. They're not looking for a new platform. They are looking for AI generation capability that lives inside their existing workflow.
+
+**What they need from a creative platform:**
+Zero workflow disruption. Native integration into their tools. Generation that produces output at the quality level their clients expect — not clearly AI-generated filler.
+
+**Their Bigsfield — the products that matter:**
+
+*Premiere Pro Plugin* is their entire Bigsfield. If this works well — if they can generate a clip, apply an upscale, create a motion graphic, and drop it into their timeline without leaving Premiere — then Bigsfield has won this user. All the platform's generation capabilities become available inside the tool they already use.
+
+*After Effects Plugin* extends this to motion graphics and VFX work — generating elements inside a composition rather than sourcing or creating them from scratch.
+
+*Video Upscale* is particularly useful here — editors regularly receive source footage at insufficient resolution, and Topaz-powered upscaling to 4K is a practical capability they'll use on nearly every project.
+
+*Cinema Studio 4.0* is the generation tool they're most likely to use directly — because they understand cinematic language and the interface speaks that language back to them.
+
+**What they'll never touch:**
+Viral Presets, Faceless Video, Marketing Studio, Community, Academy. They came for a specific professional capability, not a platform ecosystem.
+
+**What success looks like:**
+A client deliverable that would have taken three extra hours to source or create from scratch — done in twenty minutes with generated assets that met the quality bar.
+
+**The insight:**
+The Professional Editor will never become a power user of the Bigsfield website. But they are one of the most valuable user types because of how they discover and spread the product. When a freelancer generates something impressive in Premiere and the client asks "what made that," the next call is the agency asking their tech team to install the plugin for the whole team. One power user becomes twenty. This is peer-driven B2B distribution — and it costs Bigsfield nothing.
+
+---
+
+### Type 8 — The Developer / Power User
+
+**Who they are:**
+A technical builder — a developer, a researcher, a founder building an AI-powered product — who wants to integrate AI creative generation into their own workflows, tools, or applications. They are not creating content for themselves; they are building systems that create content at scale.
+
+**What they need from a creative platform:**
+Programmatic access. Reliability. No UI friction. The ability to call generation as a function from inside their own code or agent.
+
+**Their Bigsfield — the products that matter:**
+
+*MCP Server* (`mcp.bigsfield.ai/mcp`) is their primary entry point. 30+ models accessible programmatically, no separate API key required, 3-step setup. From inside Claude, ChatGPT, Cursor, or their own MCP-compatible agent, they can call any Bigsfield capability as part of a larger automated workflow.
+
+*CLI* gives them terminal-based access for scripted workflows, batch processing, and integration into CI/CD pipelines.
+
+*Skills via MCP* — Ad Multiplier, UGC Factory, Website Building, Faceless Content Factory — are callable as packaged workflows, not just raw generation endpoints. This is the difference between an API and a platform: they're not just getting pixels back, they're getting structured multi-step workflows they can trigger programmatically.
+
+*Supercomputer Connectors* allow them to link external data sources and platforms, building Bigsfield into a larger automated production system.
+
+**What they'll never touch:**
+Viral Presets, Academy, Community, Cinema Studio 4.0 (unless they're building a film tool), Marketing Studio templates (unless they're building a marketing tool).
+
+**What success looks like:**
+A product their company built that generates ad creative, faceless video, or product imagery at scale — powered by Bigsfield under the hood. Their users never need to know Bigsfield exists.
+
+**The insight:**
+The Developer is the user type that makes Bigsfield infrastructure, not just a product. When a developer builds Bigsfield into their own tool, Bigsfield's generation capability gets distributed to that tool's entire user base — none of whom need a Bigsfield account. This is the MCP strategy's payoff: not just reaching users who choose Bigsfield, but reaching users of products that chose Bigsfield.
+
+---
+
+## The Cross-Type Map
+
+Here is every major Bigsfield product, mapped to the creator types who actually use it:
+
+| Product | Casual | Social | Faceless | Filmmaker | Marketer | E-comm | Editor | Developer |
+|---|---|---|---|---|---|---|---|---|
+| Viral Presets | ✅ Core | ✅ Often | — | — | — | — | — | — |
+| Community / Open Projects | ✅ Core | ✅ Often | — | ✅ Core | — | — | — | — |
+| Academy | — | — | — | ✅ Often | — | — | — | — |
+| Text to Video | — | ✅ Often | ✅ Often | ✅ Core | — | — | — | ✅ Via MCP |
+| Image to Video | — | ✅ Often | ✅ Often | ✅ Often | ✅ Often | ✅ Often | ✅ Often | ✅ Via MCP |
+| Image Generation | — | ✅ Often | — | ✅ Often | ✅ Often | ✅ Core | — | ✅ Via MCP |
+| Video Upscale | — | ✅ Often | — | ✅ Core | ✅ Often | — | ✅ Core | — |
+| Cinema Studio 4.0 | — | — | — | ✅ Core | — | — | ✅ Often | — |
+| Soul Cinema | — | — | — | ✅ Core | — | — | — | — |
+| Lipsync Studio | — | ✅ Often | — | ✅ Often | ✅ Often | — | ✅ Often | ✅ Via MCP |
+| Photodump | — | ✅ Often | — | ✅ Often | ✅ Often | ✅ Often | — | — |
+| Edit / Layers | — | — | — | ✅ Often | ✅ Often | ✅ Often | — | — |
+| Canvas | — | — | — | ✅ Core | ✅ Often | — | — | — |
+| Marketing Studio | — | — | — | — | ✅ Core | ✅ Core | — | ✅ Via MCP |
+| Ad Multiplier Skill | — | — | — | — | ✅ Core | ✅ Core | — | ✅ Via MCP |
+| Faceless Video Skill | — | — | ✅ Core | — | — | — | — | ✅ Via MCP |
+| Shorts Maker Skill | — | ✅ Core | ✅ Core | — | ✅ Often | — | ✅ Often | — |
+| Brandkit Skill | — | — | — | — | ✅ Core | ✅ Often | — | — |
+| Supercomputer Memory | — | ✅ Often | ✅ Core | — | ✅ Core | ✅ Often | — | — |
+| Premiere Pro Plugin | — | — | — | — | — | — | ✅ Core | — |
+| After Effects Plugin | — | — | — | ✅ Often | — | — | ✅ Core | — |
+| Photoshop Plugin | — | — | — | ✅ Often | ✅ Often | ✅ Often | ✅ Core | — |
+| MCP Server / CLI | — | — | — | — | — | — | — | ✅ Core |
+
+Reading this table makes something important visible: almost no single product is essential to all creator types. Viral Presets are core to Casual Creators and irrelevant to Developers. The MCP server is critical to Developers and invisible to Social Media Creators. Cinema Studio 4.0 is the Filmmaker's home base and the Marketer never opens it.
+
+**The platform's breadth is not confusion — it is precision at scale.** Each creator type finds a tight, relevant subset of products. The products they don't use don't slow them down or distract them; they simply live in other tabs.
+
+---
+
+## What Holds It Together
+
+If each creator type uses a different set of products, what makes this one platform rather than eight separate tools?
+
+Three things:
+
+**Shared infrastructure.** All eight creator types ultimately run on the same 30+ models. The Filmmaker and the E-commerce brand and the Developer are all calling Seedance, Kling, Veo, Flux — the same underlying models, different workflows built on top. Bigsfield's model relationships and integrations benefit every user type simultaneously.
+
+**Shared economics.** The Casual Creator populates the Community with content that inspires the Filmmaker. The Filmmaker's work sets the quality ceiling that makes the Marketer trust the platform. The Developer's integrations bring in users who become Social Media Creators. Each type creates value that other types consume — often without knowing it.
+
+**One login, one account.** A creator who starts as a Social Media Creator and builds a brand doesn't need to switch platforms when they need Marketing Studio. They're already there. As users grow and their needs evolve, Bigsfield evolves with them within the same environment. No migration, no re-learning, no lost history.
+
+---
+
+## The Insight This Framework Reveals
+
+The creator-type lens reveals something the journey-stage lens hides: **Bigsfield's biggest risk is not that it does too little. It's that different creator types never discover the products built for them.**
+
+A Filmmaker who lands on the homepage during the Film Festival might sign up and start using Viral Presets — and leave thinking Bigsfield is a preset tool that isn't serious enough for their work. They never saw Cinema Studio 4.0.
+
+An E-commerce founder who signs up for the image generation might use it for basic product shots and never discover Marketing Studio — which would have automated their entire weekly content workflow.
+
+A Developer who hears about Bigsfield as "a video tool" might never investigate the MCP server — which is the only product in their Bigsfield.
+
+**The navigation structure and the homepage communicate one version of Bigsfield.** But there are eight real versions, each one deeply useful to a specific person. Getting the right creator to the right product fast enough is the conversion and retention challenge the product team lives with every day.
+
+---
+
+## Self-Test
+
+1. Name all eight creator types. For each one, name the single most important Bigsfield product.
+2. Which creator type is responsible for most of Bigsfield's organic social discovery — and how does the product design enable that?
+3. Which creator type generates the highest revenue — and what makes their use case a B2B opportunity rather than a consumer one?
+4. Which creator type is the "newest" — essentially created by AI tools, not an existing category that adopted AI?
+5. What are the three things that hold all eight creator types together on one platform?
+6. Why is the Filmmaker type strategically important even if they're not the largest segment?
+7. Which two creator types overlap the most in terms of products used? Which two overlap the least?
+8. Describe Bigsfield's biggest discovery/retention risk in one sentence — and suggest one product or UX change that would address it.
+
+---
+
+*Study based on: bigsfield.ai — full product audit · August 2026 · Part 4 of a series on Bigsfield's product and platform strategy.*
